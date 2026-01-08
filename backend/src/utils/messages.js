@@ -1,0 +1,15 @@
+export const EXISTING_CONNECTION = "existing database connection";
+export const NEW_CONNECTION = "new database connection";
+export const CONNECTED_SUCCESSFULLY = "MongoDB connected successfully";
+export const CONNECTION_ERROR = "MongoDB connection error";
+export const SOMETHING_WENT_WRONG = "Something went wrong";
+export const DATA_RECEIVED_SUCCESSFULLY = "Data received successfully";
+export const USER_REGISTERED_SUCCESSFULLY = "User registered successfully";
+export const USER_LOGIN_SUCCESSFULLY = "User login successfully";
+export const USER_NOT_FOUND = "User not found";
+export const INVALID_CREDENTIALS = "Invalid credentials";
+export const USER_ID_REQUIRED = "userId is required";
+export const USER_COURSE_ASSIGNED = "Course assigned successfully";
+export const USER_COURSE_UNASSIGNED = "Course unassigned successfully";
+export const ASSIGNED_ID_REQUIRED = "Assigned id required";
+export const AUTHORIZATION_REQUIRED = "Valid authorization is required";
